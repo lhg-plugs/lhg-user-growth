@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"小白可执行的增长实验清单：AARRR 杠杆诊断 → 实验清单 → 完整性校验 → 复盘","name":"lhg-user-growth","source":"./"}]}
