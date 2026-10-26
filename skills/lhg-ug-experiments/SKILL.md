@@ -148,5 +148,5 @@ blocker（缺假设/缺指标/缺动作等）清零再交付。脚本只查"有�
 本 skill 由真人出镜 IP「刘洪光」（安徽合肥）出品，归属 [lhg-skills](https://github.com/lhg-skills)。
 
 - GitHub 主页：https://github.com/lhg-skills —— 全部 skill 开源在此，欢迎 star
-- 视频号：搜「刘洪光实名上网」
+- 抖音：搜「刘老师讲AI实战」
 - 微信：lhgsmsw
